@@ -48,7 +48,7 @@ public class ProductManager implements Function {
         String line;
         while ((line =br.readLine())!= null){
             String [] content = line.split(" ,");
-            int id = Integer.parseInt(content[0].substring(4));
+            int id = Integer.parseInt(content[0].substring(5));
             String name = content[1].substring(6);
             String brand = content[2].substring(7);
             double price = Double.parseDouble(content[3].substring(7));

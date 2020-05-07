@@ -1,2 +1,3 @@
-ID : 11 ,name : tv ,brand : sony ,price : 1111.0 ,status : true ,description : new 100
-ID : 1 ,name : tv ,brand : sony ,price : 22.0 ,status : true ,description : new
+ID : 11 ,name :   tv ,brand :   sony ,price : 1111.0 ,status :   true ,description :   new 100
+ID : 1 ,name : frige ,brand :   sony ,price : 22.0 ,status :   true ,description :   new
+ID : 12 ,name :  tv1 ,brand :  samsung ,price : 23.0 ,status :  true ,description :  new 90%
